@@ -1,44 +1,55 @@
-# Cadastro de Jogadoras de Futebol 🏆
+# 🏆 Cadastro de Jogadoras de Futebol Feminino
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/SEU_REPOSITORIO) 
-![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO/SEU_REPOSITORIO?style=social)
-![GitHub forks](https://img.shields.io/github/forks/SEU_USUARIO/SEU_REPOSITORIO?style=social)
+Este projeto é um formulário interativo para cadastro de jogadoras de futebol feminino, desenvolvido com HTML, CSS e JavaScript. Ele permite registrar informações como nome, posição, clube, gols, assistências, jogos e foto da jogadora. Além disso, oferece funcionalidades para editar, excluir e favoritar jogadoras, com persistência de dados utilizando o `localStorage`.
 
-Este projeto é uma **aplicação web interativa** para gerenciar jogadoras de futebol feminino, permitindo cadastrar, editar, excluir e favoritar jogadoras. Desenvolvido com **HTML5, CSS3 e JavaScript**, usando **LocalStorage** para persistência de dados.
+## 🔗 Acesse o Projeto
 
----
+Visualize a aplicação em funcionamento no GitHub Pages:
 
-## 🌟 Funcionalidades
+👉 [https://henriguedes.github.io/webDev-cadastro-de-jogadoras/](https://henriguedes.github.io/webDev-cadastro-de-jogadoras/)
 
-- **Listagem completa:** Mostra jogadoras com foto e detalhes (nome, posição, clube, gols, assistências e jogos).  
-- **Cadastro de jogadoras:** Formulário com validação de campos.  
-- **Edição de dados:** Atualiza informações existentes mantendo status de favorita.  
-- **Exclusão de jogadoras:** Remove jogadoras do cadastro com confirmação.  
-- **Favoritar jogadoras:** Destaca jogadoras favoritas.  
-- **Persistência:** Todos os dados são salvos no navegador via LocalStorage.
+## 🛠️ Tecnologias Utilizadas
 
----
+- **HTML5**: Estruturação semântica da página.
+- **CSS3**: Estilização responsiva e moderna.
+- **JavaScript**: Lógica de interação e manipulação de dados.
+- **localStorage**: Armazenamento local para persistência de dados.
 
-## 🛠 Tecnologias Utilizadas
+## 📋 Funcionalidades
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![LocalStorage](https://img.shields.io/badge/LocalStorage-FFA500?style=flat)
+- **Cadastro de Jogadoras**: Preencha os campos e registre novas jogadoras.
+- **Edição de Cadastro**: Selecione uma jogadora cadastrada para editar suas informações.
+- **Exclusão de Cadastro**: Remova jogadoras da lista de cadastros.
+- **Favoritar Jogadora**: Marque jogadoras como favoritas para destaque.
+- **Persistência de Dados**: Todos os dados são armazenados localmente no navegador, garantindo que as informações não se percam ao atualizar a página.
 
----
+## 📸 Exemplo de Uso
 
-## 📁 Estrutura do Projeto
+![Cadastro de Jogadoras](https://henriguedes.github.io/webDev-cadastro-de-jogadoras/assets/img/screenshot.png)
 
-/projeto-cadastro-jogadoras
+*Imagem ilustrativa da interface do formulário.*
+
+## 📂 Estrutura do Projeto
+
+/webDev-cadastro-de-jogadoras
 │
-├── index.html # Página principal
+├── index.html # Página principal com o formulário
 ├── style.css # Estilos da aplicação
-├── script.js # Lógica do projeto
-└── README.md # Documentação
+├── script.js # Lógica em JavaScript
+└── assets/
+└── img/
+└── screenshot.png # Captura de tela da aplicação
 
+markdown
+Copiar código
 
-## 👤 Autor
+## 👤 Desenvolvedor
 
-## Henrique Guedes Silvestre
-LinkedIn : www.linkedin.com/in/henrique-guedes-b01138320
+**Henrique Guedes**
+
+- GitHub: [https://github.com/henriguedes](https://github.com/henriguedes)
+- LinkedIn: [https://www.linkedin.com/in/henrique-guedes/](https://www.linkedin.com/in/henrique-guedes/)
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
