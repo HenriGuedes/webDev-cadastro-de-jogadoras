@@ -48,7 +48,7 @@ Copiar código
 **Henrique Guedes**
 
 - GitHub: [https://github.com/henriguedes](https://github.com/henriguedes)
-- LinkedIn: [https://www.linkedin.com/in/henrique-guedes/](https://www.linkedin.com/in/henrique-guedes/)
+- LinkedIn: [www.linkedin.com/in/henrique-guedes-b01138320)
 
 ## 📄 Licença
 
